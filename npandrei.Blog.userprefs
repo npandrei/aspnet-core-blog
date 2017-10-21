@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{EFAC57FA-4999-4DE0-B0F1-2A62480C2FC4}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="npandrei.AspNetCore.Blog/Pages/About.cshtml.cs">
+    <Files>
+      <File FileName="npandrei.AspNetCore.Blog/Pages/_Layout.cshtml" Line="61" Column="41" />
+      <File FileName="npandrei.AspNetCore.Blog/Pages/_ValidationScriptsPartial.cshtml" Line="13" Column="37" />
+      <File FileName="npandrei.AspNetCore.Blog/Pages/_ViewImports.cshtml" Line="1" Column="1" />
+      <File FileName="npandrei.AspNetCore.Blog/Pages/_ViewStart.cshtml" Line="1" Column="1" />
+      <File FileName="npandrei.AspNetCore.Blog/Pages/About.cshtml" Line="1" Column="1" />
+      <File FileName="npandrei.AspNetCore.Blog/appsettings.Development.json" Line="11" Column="1" />
+      <File FileName="npandrei.AspNetCore.Blog/appsettings.json" Line="1" Column="1" />
+      <File FileName="npandrei.AspNetCore.Blog/package.json" Line="10" Column="39" />
+      <File FileName="npandrei.AspNetCore.Blog/Startup.cs" Line="1" Column="1" />
+      <File FileName="npandrei.AspNetCore.Blog/Program.cs" Line="1" Column="1" />
+      <File FileName="npandrei.AspNetCore.Blog/package-lock.json" Line="1" Column="1" />
+      <File FileName="npandrei.AspNetCore.Blog/bundleconfig.json" Line="9" Column="6" />
+      <File FileName="npandrei.AspNetCore.Blog/Pages/About.cshtml.cs" Line="15" Column="42" />
+      <File FileName="npandrei.AspNetCore.Blog/Pages/Index.cshtml" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.npandrei.AspNetCore.Blog PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>

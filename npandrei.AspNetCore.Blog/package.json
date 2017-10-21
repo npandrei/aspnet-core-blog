@@ -1,0 +1,12 @@
+{
+  "name": "npandrei.aspnetcore.blog",
+  "version": "1.0.0",
+  "author": "Andrei Neagu",
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "3.3.7",
+    "jquery": "2.2.0",
+    "jquery-validation": "1.14.0",
+    "jquery-validation-unobtrusive": "3.2.6"
+  }
+}
